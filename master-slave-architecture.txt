@@ -1,0 +1,20 @@
+                 
+                 
+                  +---------------------+
+                  |     MASTER NODE     |
+                  |  (NameNode/Driver)  |
+                  +-----------+---------+
+                              |
+                  (Manages & Coordinates)
+                              |
+   +--------------------------+-----------------------+
+   |                          |                       |                   
+   v                          v                       v
++------------------+  +------------------+  +------------------+
+| WORKER NODE 1     | | WORKER NODE 2    |  | WORKER NODE 3    |
+| (DataNode/Exec)|  | |(DataNode/Exec)   |  |(DataNode/Exec)   |
+| - Task Execution  | | - Task Execution |  | - Task Execution |
+| - Data Storage    | | - Data Storage   |  | - Data Storage   |
++-------------------+ +------------------+  +------------------+
+
+
