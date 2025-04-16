@@ -3,7 +3,12 @@
 This project implements the research paper:
 **"Integrated Framework for Spark-Based Big Data Analytics in Sports Health Monitoring"**
 
-📚 **Research Paper**: [Springer Link](https://link.springer.com/article/10.1007/s00500-023-09450-9)  
+📚 **Research Paper**: [Springer Link](https://link.springer.com/article/10.1007/s00500-023-09450-9)
+
+   **Phase-1 Presentation**: [Drive Link](https://docs.google.com/presentation/d/1Q1PVjYN2DqLcOLqda4hxYGlNef2ziprF/edit?usp=sharing&ouid=103997540696637540016&rtpof=true&sd=true)
+   
+   **Final-Phase-Implementation Presentation**: [Drive Link](https://docs.google.com/presentation/d/13vtnAPRQTvaY5SGnGFFSq89Qtg2-yQDP/edit#slide=id.p1)
+   
 📦 **Dataset**: [Chronic Kidney Disease (CKD)](https://www.kaggle.com/datasets/mansoordaku/ckdisease)
 
 ---
