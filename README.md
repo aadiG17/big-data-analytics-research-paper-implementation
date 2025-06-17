@@ -106,8 +106,6 @@ spark.read.csv("hdfs://master:9000/ckd_data.csv", header=True, inferSchema=True)
 - ✅ Jupyter Notebook (running training)
 - ✅ Streamlit app with prediction results
 
-(🖼 Add these in your GitHub repo’s README.md with `![img](path)` syntax)
-
 ---
 
 ## 📚 Reference
